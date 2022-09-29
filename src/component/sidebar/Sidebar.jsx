@@ -5,12 +5,12 @@ export default function Sidebar() {
     <div className="sidebar">
         <div className="sidebarItem">
           <span className="sidebarTitel"> ABOUT ME</span>
-            <img className="sidebarImg" src="https://i.ibb.co/xY4Ww79/image-size-guide-fbtw-compressed-800x500.jpg" alt=" " />
+            <img className="sidebarImg" src="https://i.ibb.co/ZXTMmLm/DSC-0047.jpg" alt=" " />
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. In, porro!</p>
           
         </div>
         <div className="sidebarItem">
-          <span className="sitebarTitel">CATAGORIS</span>
+          <span className="sidebarTitel">CATAGORIS</span>
           <ul className="sidebarList">
             <li className="sidebarListItem">Life</li>
             <li className="sidebarListItem">Music</li>
@@ -21,7 +21,7 @@ export default function Sidebar() {
           </ul>
         </div>
         <div className="sidebarItem">
-          <span className="sidebarTitle">FOLLOW US</span>
+          <span className="sidebarTitel">FOLLOW US</span>
           <div className="sidebarSocial">
             <i className="sidebarIcon fa-brands fa-square-facebook"></i>
             <i className="sidebarIcon fa-brands fa-square-twitter"></i>
